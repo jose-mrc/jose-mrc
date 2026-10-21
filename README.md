@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy José Manuel Ramos Chávez 👋
 
-<!--
-**jose-mrc/jose-mrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica
+- 📍 Soy de Manzanillo, Colima, México
+- 🌱 Actualmente estoy aprendiendo Git, Linux y programación en C
+- 🎯 Mi meta es terminar la universidad
 
-Here are some ideas to get you started:
+## Mis intereses
+- 💻 La programación y la lógica detrás del software
+- 🐧 Los sistemas operativos y la terminal de Linux
+- 🔧 Aprender a resolver problemas con tecnología
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- 📧 jramos58@ucol.mx
+
+- ## Tecnologías que quiero aprender
+- **Git y GitHub**
+- *Python*
+- UML
